@@ -1,0 +1,12 @@
+{
+  "name": "@insnh-gd/meristem-plugin-mnet",
+  "version": "1.0.0",
+  "description": "Meristem M-Net overlay networking plugin",
+  "type": "module",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "build": "bun build src/index.ts --outdir dist --target bun",
+    "test": "bun test",
+    "clean": "rm -rf dist"
+  }
+}
