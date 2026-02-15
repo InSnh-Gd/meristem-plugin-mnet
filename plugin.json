@@ -6,7 +6,7 @@
   "runtime_profile": "sandbox",
   "sdui_version": "1.0",
   "dependencies": [],
-  "entry": "dist/index.js",
+  "entry": "src/index.ts",
   "ui": {
     "mode": "SDUI",
     "entry": "ui/index.html"
